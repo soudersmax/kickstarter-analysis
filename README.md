@@ -15,9 +15,10 @@
 
 
 <p align="center">
-  <img src="C:\Users\soude\Desktop\Data Analytics Bootcamp\Module 1 - Advanced Excel\Resources\theater_outcomes_vs_launch.png" style="zoom: 67%;" />
+  <img src="Resources\theater_outcomes_vs_launch.png" style="zoom: 67%;" />
     Figure 1: Outcomes vs Launch Date
 </p>
+
 
 
 
@@ -28,9 +29,10 @@
 
 
 <p align="center">
-  <img src="C:\Users\soude\Desktop\Data Analytics Bootcamp\Module 1 - Advanced Excel\Resources\Outcomes_vs_Goals.png" style="zoom: 67%;" />
+  <img src="Resources\Outcomes_vs_Goals.png" style="zoom: 67%;" />
     Figure 2: Outcomes Based on Goal
 </p>
+
 
 
 
