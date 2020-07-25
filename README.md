@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="Resources\theater_outcomes_vs_launch.png" style="zoom: 67%;" />
-    Figure 1: Outcomes vs Launch Date
+   </br>Figure 1: Outcomes vs Launch Date
 </p>
 
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="Resources\Outcomes_vs_Goals.png" style="zoom: 67%;" />
-    Figure 2: Outcomes Based on Goal
+    </br>Figure 2: Outcomes Based on Goal
 </p>
 
 
